@@ -1,13 +1,11 @@
-# Image Processing with Gaussian Blur
+# Image Processing Engine with Gaussian Blur Filter
 
 ### Summary:  
 Design a image processing engine which supports the following features:  
-1. Frame size is 128x128, and input photo is in grayscale format.
-2. Be able to request and read the image from host.
-3. Apply a gaussian blur filter to the original image, window size is 5x5.  
-4. Corners and edges are ignored, only apply the filter to center 124x124 pixels.
-5. Be able to write the processed pixel to assigned memory location.  
-6. Synthesis the design and pass post-synthesis simulation.
+1. Frame size is 128x128 with input photo in grayscale format.
+2. Be able to request the pixel from host, and write the processed pixel to assigned location.
+3. Apply a gaussian blur filter to the original image with 5x5 window size. Edge cases are ignored.  
+4. Synthesis the design and pass post-synthesis simulation.
 
 ### Block Diagram:  
 1. System block diagram:
