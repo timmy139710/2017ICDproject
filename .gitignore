@@ -1,0 +1,7 @@
+*.zip
+*.rar
+.synopsys_dc.setup
+*.docx
+*_MACOSX
+*.metadata
+*.DS_Store
