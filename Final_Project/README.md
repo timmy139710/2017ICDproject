@@ -9,7 +9,7 @@ Design a image processing engine which supports the following features:
 
 ### Block Diagram:  
 1. System block diagram:
-<img src=https://github.com/timmy139710/Integrated-Circuit-Design/blob/master/pic/Final_block.png alt="block" width=500 height=300>  
+<img src=https://github.com/timmy139710/Integrated-Circuit-Design/blob/master/pic/Final_block.png alt="block" width=500 height=450>  
  
 2. Gaussian Blur Filter:
 <p align="left">
